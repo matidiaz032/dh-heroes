@@ -1,0 +1,12 @@
+ul {
+    padding-left: 2rem;
+    list-style-type: none;
+  }
+  
+  ul li {
+    padding-left: 2rem;
+    background-image: url(../img/star.png);
+    background-position: 0 0;
+    background-size: 1.2rem 1.2rem;
+    background-repeat: no-repeat;
+  }
